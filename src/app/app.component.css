@@ -1,0 +1,43 @@
+
+/* .form-area
+{
+  margin:100px;
+  text-align: center;
+
+
+}
+.preview-area{
+  text-align: center;
+  border:2px solid blue;
+  width:500px;
+  position: relative;
+  left: 400px;
+  padding: 20px;
+  background-color: chocolate;
+}
+.container{
+  border:2px solid blue;
+  width:500px;
+  position: relative;
+  left: 400px;
+  padding: 20px;
+  background-color: aquamarine;
+} */
+h1{
+  text-align: center;
+  position: relative;
+  top: 30px;
+  font-size: 50px;
+}
+.main-container{
+  text-align: center;
+  position: relative;
+  top: 30px;
+
+}
+button{
+  background-color:aquamarine;
+  width: 250px;
+  padding: 10px ;
+  font-size: 20px;
+}

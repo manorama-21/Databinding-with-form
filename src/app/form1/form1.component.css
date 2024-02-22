@@ -1,0 +1,29 @@
+.form-area
+{
+  margin:100px;
+  text-align: center;
+
+
+}
+.preview-area{
+  text-align: center;
+  border:2px solid blue;
+  width:500px;
+  position: relative;
+  left: 400px;
+  padding: 20px;
+  background-color: chocolate;
+  float: left;
+}
+.container{
+  border:2px solid blue;
+  width:500px;
+  position: relative;
+  left: 400px;
+  padding: 20px;
+  background-color: aquamarine;
+}
+img{
+  width:400px;
+  height:300px;
+}
